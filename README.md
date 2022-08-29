@@ -10,7 +10,7 @@ Create an online application/platform that allows users to order a variety of wi
 
 MVP
 
-Landing page
-Order Page
-Contact form
+Landing page//
+Order Page//
+Contact form//
 
