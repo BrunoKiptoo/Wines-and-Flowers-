@@ -1,0 +1,23 @@
+{
+  "name": "wines-and-flowers-",
+  "version": "1.0.0",
+  "description": "Problem Statement",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ./db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoKiptoo/Wines-and-Flowers-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoKiptoo/Wines-and-Flowers-/issues"
+  },
+  "homepage": "https://github.com/BrunoKiptoo/Wines-and-Flowers-#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

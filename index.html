@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flowers and Wines Landing Page</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section>
+        <div class="circle"></div>
+        <header>
+            <a href="#"><img src="assets/wines_and_flowers_logo.png" class="logo"></a>
+            <div class="toggle" onclick="toggleMenu()"></div>
+            <ul class="navigation">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Menu</a></li>
+                <li><a href="#">Collection</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </header> 
+        
+     <div class="content">
+        <div class="textBox">
+        
+        <h2>Feel and Taste the Love</h2>
+        <p> Wines and flowers have been around for thousands of years. 
+            We have been free to go to the nearest stores to buy them and gift them to our loved ones. 
+            However, Flowers & Wines Co. has taken it a step further to ensure that this love is delvered to the ones you care about.
+            Enjoy the love and Joy that comes with appreciating your loved ones at the comfort of your phone. 
+        </p>
+        <a href="#">Learn More</a>
+        </div id ="cards">
+        <div class="imgBox">   
+            <div class="swiper">
+                <div class="swiper-wrapper">
+                  <div class="swiper-slide"><img src="assets/363-3630618_glass-of-wine-love-hd-png-download.png"></div>
+                  <div class="swiper-slide"><img src="assets/istockphoto-1198060133-612x612.jpg"></div>
+                  <div class="swiper-slide"><img src="assets/istockphoto-1297231609-170667a.jpg"></div>
+                  <div class="swiper-slide"><img src="/assets/pexels-tanya-gorelova-3934057.jpg"></div>
+                </div>
+              </div>
+        </div>
+    </div>
+    <ul class="sci">
+        <li><a href="#"><img src="/assets/Twitter.png" width=160 height="160"></a></li>
+        <li><a href="#"><img src="/assets/Insta.png" width="160" height="100"></a></li>
+    </ul>
+    </section>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+    
+    
+    <script type="module">
+        var swiper = new Swiper('.swiper', {
+          effect: 'coverflow',
+          grabCursor: true,
+          centeredSlides: true,                                                     /*slider*/
+          slidesPerView: 'auto',
+          coverflowEffect: {
+            rotate: 0,
+            stretch: 0,
+            depth: 200,
+            modifier: 1,
+            slideShadows: true,
+          },
+          pagination: {
+            el: '.swiper-pagination',
+          },
+          loop: true,
+        });
+
+        function toggleMenu(){
+            const menuToggle = document.querySelector ('.toggle')
+            const navigation = document.querySelector ('.navigation')
+            menuToggle.classList.toggle('active')
+            navigation.classList.toggle('active')
+        }
+      </script>
+      <div id="root"></div>
+    <script src="/index.js"></script>
+
+    </script>
+</body>
+</html>
