@@ -1,0 +1,130 @@
+{
+    "drinks":[
+
+        {
+            "image": "assets/istockphoto-1297231609-170667a.jpg"
+        },
+
+        {
+            "image": "/assets/pexels-tanya-gorelova-3934057.jpg"
+        },
+        {
+            "image": "assets/istockphoto-1198060133-612x612.jpg"
+        },
+        
+        {
+            "image": "https://www.pablogiftshop.com/wp-content/uploads/2021/08/white-roses-flower-bouquet-7.jpg"
+        },
+
+        {
+            "image": "https://cdn.shopify.com/s/files/1/3103/5874/products/148493789_3640582312704395_5759989801141337895_n_2000x.jpg?v=1659435333"
+        },
+
+        {
+            "Name": "Cabernet Sauvignon",
+            "Taste": "Black Cherry, Black Currant, Baking Spices, and Cedar (from oak)",
+
+            "Style": "Full-Bodied Red Wine",
+
+            "Description": "Cabernet Sauvignon is a full-bodied red grape first heavily planted in the Bordeaux region. Today, its the most popular wine variety in the world! Wines are full-bodied with bold tannins and a long persistent finish driven mostly by the higher levels of alcohol and tannin that often accompany these wines.",
+
+            "Food Pairing": "lamb, beef, smoked meats, French, American, firm cheeses like aged cheddar and hard cheeses like Pecorino.",
+            "image": "https://images.contentstack.io/v3/assets/blt73c0d20f99e8dcff/blt85bb95cb73c5f35b/5fff3d4af093203f68d434ac/Cabernet_Sauvignon.jpg"
+        },
+
+        {
+            "image": "https://cdn.shopify.com/s/files/1/3103/5874/products/274984676_4834343633328251_5863567789016998794_n_2048x.jpg?v=1659435337"
+        },
+        
+        {
+            "Name": "Syrah",
+            "Taste": "Blueberry, plum, tobacco, cured meat, black pepper, violet",
+
+            "Style": "Full-Bodied Red Wine",
+
+            "Description": "Syrah (aka Shiraz) is a full-bodied red wine that/’s heavily planted in the Rhône Valley in France and Australia. The wines have intense fruit flavors and medium-weight tannins. Syrah is commonly blended with Grenache and Mourvèdre to create the red Rhône blend. The wine often has a meaty (beef broth, jerky) quality.",
+
+            "Food Pairing": "lamb, beef, smoked meats; Mediterranean, French, and American firm cheeses like white cheddar, and hard cheeses like Spanish Manchego.",
+            "image": "https://images.contentstack.io/v3/assets/blt73c0d20f99e8dcff/blt58abf978ac6157cd/5fff93b6fee93e550328cc3d/Syrah.jpg"
+        },
+        {
+            "image": "https://cdn.shopify.com/s/files/1/3103/5874/products/Landoffirepink_1_2000x.jpg?v=1655965711"
+        },
+
+        {
+            "Name": "Zinfandel",
+            "Taste": "A broad, exotic array of fruits from stone (overripe nectarine), to red (raspberry, sour cherry), to blue (plum, blueberry), to black (blackberry, boysenberry), Asian 5 Spice Powder, Sweet Tobacco",
+
+            "Style": "Medium-bodied to full-bodied Red Wine",
+
+            "Description": "Zinfandel (aka Primitivo) is a medium-bodied red wine that originated in Croatia. Wines are fruit-forward and spicy with a medium length finish. Zinfandel is a red grape that may be better known in its pink variation, White Zinfandel",
+
+            "Food Pairing": "chicken, pork, cured meat, lamb, beef, barbecue, Italian, American, Chinese, Thai, Indian, full-flavored like cheddar and firm cheeses such as Manchego",
+            "image": "https://images.contentstack.io/v3/assets/blt73c0d20f99e8dcff/blt39c32a65fbbfcc09/5fff8bf62c2bd44889c7eea7/Red_Zinfandel.jpg"
+        },
+
+        {
+            "Name": "Pinot Noir",
+            "Taste": "Very red fruited (cherry, cranberry) and red-floral (rose), often with appealing vegetal notes of beet, rhubarb, or mushroom",
+
+            "Style": "Lighter-bodied Red Wine",
+
+            "Description": "Pinot Noir is a dry, light-bodied red that was first widely planted in France. The wines typically have higher acidity and a soft, smooth, low-tannin finish.",
+
+            "Food Pairing": "chicken, pork, veal, duck, cured meat, French, German, cream sauces, soft cheeses, nutty medium-firm cheeses like Gruyère",
+            "image": "https://images.contentstack.io/v3/assets/blt73c0d20f99e8dcff/bltb1e0f579739612d5/5fff8960e4028c63a64d9be6/Pinot_Noir.jpg"
+        },
+
+        {
+            "Name": "Chardonnay",
+            "Taste": "Yellow citrus (Meyer lemon), yellow pomaceous fruits (like yellow pear and apple), tropical fruits (banana, pineapple), and often a touch of butterscotch, vanilla or toasted caramel notes from oak",
+
+            "Style": "Medium- to Full-Bodied White Wine",
+
+            "Description": "Chardonnay is a dry full-bodied white wine that was planted in large quantities for the first time in France. When oak-aged, Chardonnay will have spicy, bourbon-y notes. Unoaked wines are lighter and zesty with apple and citrus flavors. Chardonnay is the white grape of Burgundy",
+
+            "Food Pairing": "lobster, crab, shrimp, chicken, pork, mushroom, French, cream sauces, soft cheeses such as triple cream brie, medium-firm cheeses like Gruyère",
+            "image": "https://media.winefolly.com/Chardonnay-wine-tasting-WineFolly.jpg"
+        },
+
+        {
+            "Name": "Sauvignon Blanc",
+            "Taste": "Aggressively-citrus-driven (grapefruit pith), with some exotic fruits (honeydew melon, passion fruit, kiwi) and always an herbaceous quality (grass, mint, green pepper)",
+
+            "Style": "Light- to Medium-Bodied White Wine",
+
+            "Description": "Sauvignon Blanc is a dry white grape first widely planted in France. Wines are tart, typically with herbal, “green” fruit flavors.",
+
+            "Food Pairing": "fish, chicken, pork, veal, Mexican, Vietnamese, French, herb-crusted goat cheese, nutty cheeses such as Gruyère",
+            "image": "https://media.winefolly.com/Sauvignon-Blanc-wine-tasting-WineFolly.jpg"
+        },
+
+        {
+            "Name": "Pinot Gris",
+            "Taste": "BDelicate citrus (lime water, orange zest)  and pomaceous fruits (apple skin, pear sauce), white floral notes, and cheese rind (from lees usage)",
+
+            "Style": "Light-Bodied White Wine",
+
+            "Description": "Pinot Gris is a dry light-bodied white grape that is planted heavily in Italy, but also in France and Germany. Wines are light to middle-weight and easy drinking, often with some bitter flavor on the palate (bitter almond, quinine)",
+
+            "Food Pairing": "Salad, delicate poached fish, light and mild cheeses.",
+            "image": "https://media.winefolly.com/Pinot-Gris-wine-tasting-WineFolly.jpg"
+        },
+
+        {
+            "Name": "Riesling",
+            "Taste": "Citrus (kefir lime, lemon juice) and stone-fruit (white peach, nectarine) always feature prominently, although there are also usually floral and sweet herbal elements as well.",
+
+            "Style": "Floral and fruit-driven aromatic white that comes in variable sweetness. Some producers choose not to ferment all the grape sugar and therefore make the wine in an “off-dry” style.",
+
+            "Description": "Always very high in acid, when made as a table wine Rieslings can be harmoniously sweet (sweet and sour) or dry (very acidic). The wine is polarizing because some people find dry styles too acidic and sweet styles too cloying, but sweetness is always a wine making decision and not inherent to the grape.",
+
+            "Food Pairing": "chicken, pork, duck, turkey, cured meat, Indian, Thai, Vietnamese, Moroccan, German, washed-rind cheeses and fondue",
+            "image": "https://media.winefolly.com/Riesling-wine-tasting-WineFolly.jpg"
+        }
+        
+    
+    ] 
+}
+
+
