@@ -16,3 +16,7 @@ Menu Page//
 Collection page//
 Contact page//
 
+
+
+//project has achived what it intended to achieve
+
