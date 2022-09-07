@@ -11,6 +11,8 @@ Create an online application/platform that allows users to order a variety of wi
 MVP
 
 Landing page//
-Order Page//
-Contact form//
+Home page//
+Menu Page//
+Collection page//
+Contact page//
 
