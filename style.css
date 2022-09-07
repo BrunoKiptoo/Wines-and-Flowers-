@@ -47,8 +47,8 @@ align-items: center;
 
 header .logo
 {
-position: relative;
-max-width: 0px;                /* changed was initially 180px*/
+position: fixed;
+max-width: 150px;                /* changed was initially 180px*/
 }
 
 header .navigation
